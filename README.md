@@ -34,6 +34,7 @@ Role-based authentication
 Note: This repo is a standalone portfolio excerpt. The frontend runs independently using localStorage, while the /backend folder contains the original Express + MySQL code for reference.
 
 🚀 Quick Start
+
 npm install
 npm run dev
 
